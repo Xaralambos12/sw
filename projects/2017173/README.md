@@ -19,8 +19,7 @@
 
 [konsole asciinema link](https://asciinema.org/a/311071)
 
-[tilda asciinema link](https://asciinema.org/a/311080)
-
+[tilda asciinema link](https://asciinema.org/a/311) ///// na ftiaksw to link tou tilda //////
 ```
 sudo apt-get -f install guake 
 sudo apt-get -f install konsole
@@ -36,9 +35,14 @@ sudo apt-get -f install tilda
 
 #### Shells
 
+[fish asciinema link](https://asciinema.org/a/311087)
+
 ```
 brew install fish
 ```
+Όλες οι πληροφορίες που χρειάζεσαι για το fish μπορείς να τις βρεις [εδώ](https://fishshell.com/).
+
+Το fish είναι ένα πολύ καλό και εύχρηστο shell γιατί σου παρέχει πολλές ευκολίες στο χρήστη σε χρώμα, αυτόματη συμπλήρωση κτλ.
 ## Δεύτερο Παραδοτέο : 
 ### 
 [Asciinema Link 2]()
