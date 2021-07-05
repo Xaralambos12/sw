@@ -23,7 +23,7 @@
 
 [konsole asciinema link](https://asciinema.org/a/311071)
 
-[tilda asciinema link](https://asciinema.org/a/311) ///// na ftiaksw to link tou tilda //////
+[tilda asciinema link](https://asciinema.org/a/311)
 ```
 sudo apt-get -f install guake 
 sudo apt-get -f install konsole
